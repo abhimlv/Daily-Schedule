@@ -1,2 +1,2 @@
 # reactplan
-![alt text](https://github.com/geekyshow1/reactplan/blob/main/screenshot.JPG)
+![alt text](https://github.com/abhimlv/Daily-Schedule/blob/master/screenshot.JPG)
